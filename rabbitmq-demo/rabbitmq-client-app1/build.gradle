@@ -1,6 +1,0 @@
-apply plugin: 'application'
-
-group = 'itx.examples.rabbitmq'
-version = '1.0'
-mainClassName = 'itx.examples.rabbitmq.client1.Main'
-

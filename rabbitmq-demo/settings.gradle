@@ -1,5 +1,0 @@
-include "rabbitmq-common"
-include "rabbitmq-client-app1" 
-include "rabbitmq-client-app2"
-
-
